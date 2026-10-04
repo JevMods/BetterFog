@@ -1,0 +1,33 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "JevMods"
+name = "BetterFog"
+versionNumber = "1.0.0"
+description = "Vanilla fog, Mistlands mist and fire smoke can hide the whole scene. This mod keeps all three but reduces their density and opacity, and each reduction is adjustable."
+websiteUrl = "https://github.com/JevMods/BetterFog"
+containsNsfwContent = false
+
+[package.dependencies]
+denikson-BepInExPack_Valheim = "5.4.2351"
+
+[build]
+icon = "./package/icon.png"
+readme = "./README.md"
+outdir = "./dist"
+
+[[build.copy]]
+source = "./src/BetterFog/bin/Release/BetterFog.dll"
+target = "/"
+
+[[build.copy]]
+source = "./package/CHANGELOG.md"
+target = "/"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "valheim" ]
+
+[publish.categories]
+valheim = [ "mods", "tweaks", "client-side" ]
