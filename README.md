@@ -1,6 +1,6 @@
 # BetterFog
 
-Vanilla fog, Mistlands mist and fire smoke can hide the whole scene, and most mods that fix this just switch them off. This mod keeps all three and reduces them, so the world still feels misty but you can see where you are going.
+Vanilla fog, Mistlands mist and fire smoke can hide the whole scene, and most mods that fix this just switch them off. This mod keeps all three and reduces them to make the game more enjoyable.
 
 ## Features
 
@@ -16,6 +16,10 @@ The settings are in `BepInEx/config/JevMods.BetterFog.cfg`, created on first lau
 - `Fog.Density`: reduces the distance fog density to this fraction of vanilla (default 0.5).
 - `Fog.MistOpacity`: reduces the opacity of the mist and fog particles to this fraction of vanilla. Restart the game after changing it (default 0.2).
 - `Smoke.Opacity`: reduces the opacity of fire smoke to this fraction of vanilla (default 0.5).
+
+## Feedback
+
+Found a bug or have an idea for a change? Open an issue on the [GitHub issues page](https://github.com/JevMods/BetterFog/issues). Refactoring suggestions are welcome too. I'll go through everything as fast as I can.
 
 ## Building from source
 
