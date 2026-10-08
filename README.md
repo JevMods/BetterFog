@@ -2,6 +2,8 @@
 
 Vanilla fog, Mistlands mist and fire smoke can hide the whole scene, and most mods that fix this just switch them off. This mod keeps all three and reduces them to make the game more enjoyable.
 
+Screenshots are in [SCREENSHOTS.md](https://github.com/JevMods/BetterFog/blob/main/SCREENSHOTS.md).
+
 ## Features
 
 - Reduces the density of the distance fog in every biome and weather.
