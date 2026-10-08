@@ -1,6 +1,6 @@
 # BetterFog
 
-Vanilla fog, Mistlands mist and fire smoke can hide the whole scene, and most mods that fix this just switch them off. This mod keeps all three and reduces them to make the game more enjoyable.
+Other mods remove fog, Mistlands mist and fire smoke entirely. BetterFog just tones them down, so the game keeps its atmosphere and is much nicer to play.
 
 Screenshots are in [SCREENSHOTS.md](https://github.com/JevMods/BetterFog/blob/main/SCREENSHOTS.md).
 
