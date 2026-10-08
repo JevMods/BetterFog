@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "BetterFog"
-versionNumber = "1.0.2"
+versionNumber = "1.0.3"
 description = "Other mods remove fog, Mistlands mist and fire smoke entirely. BetterFog just tones them down, so the game keeps its atmosphere and is much nicer to play."
 websiteUrl = "https://github.com/JevMods/BetterFog"
 containsNsfwContent = false
